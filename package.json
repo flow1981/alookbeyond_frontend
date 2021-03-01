@@ -19,7 +19,7 @@
     "satellite.js": "^3.0.1",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.88.2",
-    "three": "^0.112.1",
+    "three": "^0.125.0",
     "three.js": "^0.77.1",
     "threejs-orbit-controls": "^1.0.3",
     "typescript": "^3.7.4"
